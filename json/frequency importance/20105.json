@@ -1,0 +1,637 @@
+[
+    {
+        "key": "20105A1",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105A2",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105A3",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105A4",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105A5",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105A7",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105A8",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105A9",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105A10",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105A11",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105A12",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105A13",
+        "frequency": 2,
+        "importance": 3
+    },
+    {
+        "key": "20105A14",
+        "frequency": 2,
+        "importance": 3
+    },
+    {
+        "key": "20105A15",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105A16",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105B1",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105B2",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105B3",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105B4",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105B5",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105B6",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105B7",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105C1",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105C2",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105C3",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105C4",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105C5",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105C6",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105C7",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105C8",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105C9",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105C10",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105C11",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105C12",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105C13",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105C14",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105C15",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105C16",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105C17",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105C18",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105C19",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105C20",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105D1",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105D2",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105D3",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105D4",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105D5",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105D6",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105D7",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105D8",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105D9",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105D10",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105E1",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105E2",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105E3",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105E4",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105E5",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105E6",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105E7",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105E8",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105E9",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105E10",
+        "frequency": 2,
+        "importance": 3
+    },
+    {
+        "key": "20105E11",
+        "frequency": 2,
+        "importance": 3
+    },
+    {
+        "key": "20105F1",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105F2",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105F3",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105F4",
+        "frequency": 2,
+        "importance": 3
+    },
+    {
+        "key": "20105F5",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105F6",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105F7",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105F8",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105F9",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105F10",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105F11",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105F12",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105F13",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105F14",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105F15",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105G1",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105G2",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105G3",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105G4",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105G5",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105G6",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105G7",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105G8",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105H1",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105H2",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105H3",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105H4",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105H5",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105H6",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105H7",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105H8",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105H9",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105H10",
+        "frequency": 1,
+        "importance": 2
+    },
+    {
+        "key": "20105Z1",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105Z2",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105Z3",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105Z4",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105Z5",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105Z6",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105Z7",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105Z8",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105Z9",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105Z10",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105Z11",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105Z12",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105Z13",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105Z14",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105Z15",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105Z16",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105Z17",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105Z18",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105Z19",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105Z20",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105Z21",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105Z22",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105Z23",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105Z24",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105Z25",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105Z26",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105Z27",
+        "frequency": 4,
+        "importance": 5
+    },
+    {
+        "key": "20105Z28",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105Z29",
+        "frequency": 5,
+        "importance": 5
+    },
+    {
+        "key": "20105Z30",
+        "frequency": 3,
+        "importance": 4
+    },
+    {
+        "key": "20105Z31",
+        "frequency": 4,
+        "importance": 5
+    }
+]
